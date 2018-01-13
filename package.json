@@ -1,0 +1,16 @@
+{
+  "name": "moneybot",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node webhook.js"
+  },
+  "dependencies": {
+    "nodemon": "^1.12.1",
+    "request": "2.83.0",
+    "restify": "6.3.1"
+  },
+  "author": "",
+  "license": "ISC"
+}
